@@ -1,4 +1,6 @@
 * text=auto !eol
+/ACKNOWLEDGEMENTS -text
+/AUTHORS -text
 dev/irishfst/COPYING -text
 dev/irishfst/Makefile -text
 dev/irishfst/README -text
