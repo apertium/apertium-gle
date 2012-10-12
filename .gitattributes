@@ -5,13 +5,15 @@ dev/irishfst/COPYING -text
 dev/irishfst/Makefile -text
 dev/irishfst/README -text
 dev/irishfst/dis/gael-dis.rle -text
-dev/irishfst/dis/lookup2cgg.prl -text
+dev/irishfst/dis/lookup2cg3.prl -text
 dev/irishfst/src/abr-lex.txt -text
+dev/irishfst/src/adj-lex-cc.txt -text
 dev/irishfst/src/adj-lex-fgb-eqvar.txt -text
 dev/irishfst/src/adj-lex-fgb-var.txt -text
 dev/irishfst/src/adj-lex-fgb1.txt -text
 dev/irishfst/src/adj-lex-fgb2.txt -text
 dev/irishfst/src/adj-lex-multi.txt -text
+dev/irishfst/src/adj-lex-multi.txt.old -text
 dev/irishfst/src/adj-lex-stems-irreg.txt -text
 dev/irishfst/src/adj-lex-stems.txt -text
 dev/irishfst/src/adj-lex-stems2.txt -text
@@ -23,6 +25,8 @@ dev/irishfst/src/art-lex.txt -text
 dev/irishfst/src/conj-lex.txt -text
 dev/irishfst/src/det-lex.txt -text
 dev/irishfst/src/f-reg-tidy.txt -text
+dev/irishfst/src/foma-lexguess.script -text
+dev/irishfst/src/foma-lexguess.script.bak -text
 dev/irishfst/src/itj-lex.txt -text
 dev/irishfst/src/n-lex-cc.txt -text
 dev/irishfst/src/n-lex-fgb-eqvar.txt -text
@@ -97,6 +101,8 @@ dev/irishfst/src/xfst-fix.script -text
 dev/irishfst/src/xfst-guess-big.script -text
 dev/irishfst/src/xfst-guess-foreign.script -text
 dev/irishfst/src/xfst-guess-noun2.script -text
+dev/irishfst/src/xfst-guess-ria.script -text
+dev/irishfst/src/xfst-guess-ttypo.script -text
 dev/irishfst/src/xfst-guess-typo.script -text
 dev/irishfst/src/xfst-guess-unknown.script -text
 dev/irishfst/src/xfst-guess-verb.script -text
@@ -105,3 +111,4 @@ dev/irishfst/src/xfst-prefixes.script -text
 dev/irishfst/src/xfst-suffixes.script -text
 dev/irishfst/src/xfst-urucaps.script -text
 dev/irishfst/test.sh -text
+dev/irishfst/test.txt -text
