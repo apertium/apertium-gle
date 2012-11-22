@@ -135,7 +135,7 @@ anocht+Adv+Temp:anocht	#;
 aréir+Adv+Temp:aréir	#;
 anuraidh+Adv+Temp:anuraidh	#;
 istoíche+Adv+Temp:istoíche	#;
-<l e %_:%  r a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
+<l e %_:%  g a i r i d %+Adv:0 %+Temp:0>	#;	! lately; Temporal Adv
 <t h a r %_:%  a %_:%  b h e i t h %+Adv:0 %+Its:0>	#;	! Its Adv
 túisce+Adv+Temp:túisce	#; ! (Added CW 09/08)
 amainiris+Adv+Temp:amainiris	#; ! The second day after tomorrow (Added CW 09/08)
