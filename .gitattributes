@@ -1,6 +1,7 @@
 * text=auto !eol
 /ACKNOWLEDGEMENTS -text
 /AUTHORS -text
+/apertium-gle.gle.dix -text
 /apertium-gle.gle.rlx -text
 dev/irishfst/COPYING -text
 dev/irishfst/Makefile -text
