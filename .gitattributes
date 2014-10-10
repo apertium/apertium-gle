@@ -13,6 +13,7 @@
 dev/irishfst/COPYING -text
 dev/irishfst/Makefile -text
 dev/irishfst/README -text
+dev/irishfst/dis/gael-dis.rle -text
 dev/irishfst/dis/lookup2cg3.prl -text
 dev/irishfst/src/abr-lex.txt -text
 dev/irishfst/src/adj-lex-cc.txt -text
