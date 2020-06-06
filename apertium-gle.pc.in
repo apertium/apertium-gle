@@ -5,3 +5,4 @@ srcdir=@datarootdir@/apertium/apertium-gle
 Name: apertium-gle
 Description: Finite-state morphological transducer and constraint grammar for Irish
 Version: @VERSION@
+
