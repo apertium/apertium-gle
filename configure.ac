@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Irish], [0.1.0], [francis.tyers@gmail.com], [apertium-gle], [http://wiki.apertium.org/wiki/Apertium-gle])
+AC_INIT([Apertium Irish], [0.1.0], [francis.tyers@gmail.com], [apertium-gle], [https://wiki.apertium.org/wiki/Apertium-gle])
 AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
