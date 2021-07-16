@@ -1,0 +1,14 @@
+[LGJCMs3SIXcS#0] ^8/8<num>$
+[/LGJCMs3SIXcS]
+[RXWdQBLaGl1r#0] ^d'/do<pr>/de<pr>/do<det><pos><p2><mf><sg>$
+[/RXWdQBLaGl1r]
+[a_ODKI-WfQDY#0] ^b'/is<vbcop><aff><pii>$
+[/a_ODKI-WfQDY]
+[io3oI9XtPhJ0#0] ^?/?<sent>$
+[/io3oI9XtPhJ0]
+[oTfxehmgnL5R#0] ^·/·<sent>$
+[/oTfxehmgnL5R]
+[pMf9f5S-Fv4g#0] ^m'/mo<det><pos><p1><mf><sg>$
+[/pMf9f5S-Fv4g]
+[zbTuKuppzGqD#0] ^./.<sent>$
+[/zbTuKuppzGqD]
